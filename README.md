@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rahul-krx
-- 👀 I’m interested in Coding Web Development 
+- 👀 I’m interested in Coding, Web Development 
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
