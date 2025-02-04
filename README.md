@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul-kumar
-- 👀 I’m interested in web development, coding
+- 👀 I’m interested in web development, Coding and Responsive designs.
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
