@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul-kumar
 - 👀 I’m interested in web development, Coding and Responsive designs.
-- 🌱 I’m currently learning Full stack Development.
+
 
 <!---
 Rahul-krx/Rahul-krx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
