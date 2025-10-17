@@ -1,4 +1,4 @@
-👋 Hi there, I’m Rahul Kumar
+<h4>👋 Hi there, I’m Rahul Kumar</h4>
 
 <h4>🚀 Front-End Developer | Web Enthusiast | Problem Solver</h2>
 
