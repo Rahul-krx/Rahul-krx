@@ -1,6 +1,11 @@
-- 👋 Hi, I’m Rahul-kumar
-- 👀 I’m interested in web development, Coding and Responsive designs.
-- “Turning caffeine into clean commits ☕💻”
+Hi there, I’m Rahul Kumar
+
+🚀 Front-End Developer | Web Enthusiast | Problem Solver
+
+💻 Passionate about building modern, responsive, and user-focused web applications using technologies like
+React, Node.js, JavaScript, Express, PHP, and MySQL.
+
+☕ “Turning caffeine into clean commits and creative code.”
 
 
 <!---
