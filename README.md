@@ -2,7 +2,7 @@
 
 <h4>🚀 Front-End Developer | Web Enthusiast | Problem Solver</h2>
 
-<p font-weight:800>☕ “Turning caffeine into clean commits and creative code.” </p>
+<p style="font-weight: 800;">☕ “Turning caffeine into clean commits and creative code.”</p>
 
 💻 Passionate about building modern, responsive, and user-focused web applications using technologies like
 React, Node.js, JavaScript, Express, PHP, and MySQL.
