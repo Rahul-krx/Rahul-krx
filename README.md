@@ -1,6 +1,6 @@
 👋 Hi there, I’m Rahul Kumar
 
-🚀<h2> Front-End Developer | Web Enthusiast | Problem Solver</h2>
+<h4>🚀 Front-End Developer | Web Enthusiast | Problem Solver</h2>
 
 💻 Passionate about building modern, responsive, and user-focused web applications using technologies like
 React, Node.js, JavaScript, Express, PHP, and MySQL.
